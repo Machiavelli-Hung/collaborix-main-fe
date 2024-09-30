@@ -1,0 +1,18 @@
+export const MENU_PATH = {
+  login: "login",
+  home: "home",
+  product: "product",
+  team: "team",
+  roadmap: "roadmap",
+  partner: "partner",
+  tokenomic: "tokenomic",
+  airdrop: "airdrop",
+  develops: "develops",
+  game: "game",
+  node: "node",
+  presale: "presale",
+  exchange: "exchange",
+  staking: "staking",
+  investor: "investor",
+  aboutus: "aboutus",
+};
